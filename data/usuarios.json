@@ -1,0 +1,62 @@
+[
+  {
+    "id": "usr-001",
+    "nombre": "Cindi Tatiana Marulanda",
+    "documento": "1054987654",
+    "email": "cindi.marulanda@bcfbancario.com.co",
+    "password": "Password123!",
+    "rol": "asesor",
+    "cargo": "Asesora Senior de Crédito e Inversiones",
+    "sucursal": "Sede Principal Centro - La Dorada",
+    "estado": "activo",
+    "creadoEn": "2026-08-06T08:00:00.000Z"
+  },
+  {
+    "id": "usr-002",
+    "nombre": "Junior Celis",
+    "documento": "79845120",
+    "email": "admin@bcfbancario.com.co",
+    "password": "Password123!",
+    "rol": "admin",
+    "cargo": "Administrador Principal de Plataforma",
+    "sucursal": "Dirección General de Tecnología",
+    "estado": "activo",
+    "creadoEn": "2026-08-01T09:00:00.000Z"
+  },
+  {
+    "id": "usr-003",
+    "nombre": "Carlos Andrés Mendoza",
+    "documento": "19456782",
+    "email": "gerencia@bcfbancario.com.co",
+    "password": "Password123!",
+    "rol": "supervisor",
+    "cargo": "Gerente Comercial y de Operaciones",
+    "sucursal": "Regional Caldas",
+    "estado": "activo",
+    "creadoEn": "2026-08-02T10:00:00.000Z"
+  },
+  {
+    "id": "usr-004",
+    "nombre": "Laura Marcela Gómez",
+    "documento": "1098765432",
+    "email": "laura.gomez@bcfbancario.com.co",
+    "password": "Password123!",
+    "rol": "asesor",
+    "cargo": "Asesora Comercial de Sucursal",
+    "sucursal": "Centro Financiero Calle 72 - Bogotá",
+    "estado": "activo",
+    "creadoEn": "2026-08-10T11:00:00.000Z"
+  },
+  {
+    "id": "usr-005",
+    "nombre": "Mauricio Ramírez",
+    "documento": "98765431",
+    "email": "soporte@bcfbancario.com.co",
+    "password": "Password123!",
+    "rol": "soporte",
+    "cargo": "Especialista de Soporte Técnico e Infraestructura",
+    "sucursal": "Centro de Operaciones de Red",
+    "estado": "activo",
+    "creadoEn": "2026-08-05T08:30:00.000Z"
+  }
+]

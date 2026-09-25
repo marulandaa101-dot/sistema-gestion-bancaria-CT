@@ -1,0 +1,88 @@
+{
+  "entidad": {
+    "nombre": "Banco Central Financiero (BCF)",
+    "eslogan": "Construyendo tu futuro con solidez y confianza",
+    "mision": "Proporcionar soluciones financieras confiables, accesibles y transparentes que impulsen el bienestar y crecimiento económico de nuestros clientes y empresas aliadas, respaldados por un equipo humano de excelencia y tecnología de vanguardia.",
+    "vision": "Consolidarnos para el año 2030 como la entidad financiera líder en cercanía, innovación en asesoría personalizada y eficiencia en la gestión de créditos e inversiones en todo el país.",
+    "valores": [
+      {
+        "titulo": "Transparencia",
+        "descripcion": "Claridad total en tasas, costos, condiciones y simulaciones sin sorpresas."
+      },
+      {
+        "titulo": "Compromiso",
+        "descripcion": "Dedicación constante al logro de los objetivos patrimoniales de cada cliente."
+      },
+      {
+        "titulo": "Solidez y Seguridad",
+        "descripcion": "Protección rigurosa de la información y respaldo patrimonial garantizado."
+      },
+      {
+        "titulo": "Innovación en Servicio",
+        "descripcion": "Herramientas ágiles y precisas para optimizar los tiempos de atención y respuesta."
+      }
+    ],
+    "servicios": [
+      {
+        "id": "srv-creditos",
+        "nombre": "Créditos Personales y Comerciales",
+        "descripcion": "Líneas de financiación diseñadas a la medida de tus necesidades con tasas competitivas y plazos flexibles."
+      },
+      {
+        "id": "srv-cdt",
+        "nombre": "Certificados de Depósito a Término (CDT)",
+        "descripcion": "Multiplica tu capital con rentabilidad garantizada y plazos desde 30 hasta 1080 días con respaldo FOGAFIN."
+      },
+      {
+        "id": "srv-ahorro",
+        "nombre": "Cuentas de Ahorro y Ahorro Programado",
+        "descripcion": "Cuentas diseñadas para resguardar tus ahorros y generar rendimientos con liquidez inmediata o programada."
+      },
+      {
+        "id": "srv-asesoria",
+        "nombre": "Asesoría Financiera Especializada",
+        "descripcion": "Acompañamiento personalizado con simulaciones exactas y tablas de amortización detalladas."
+      }
+    ],
+    "contacto": {
+      "lineaNacional": "01 8000 912 345",
+      "lineaAtencion": "+57 (601) 456 7890",
+      "correo": "contacto@bcfbancario.com.co",
+      "horarioGeneral": "Lunes a Viernes: 8:00 a.m. a 5:00 p.m. | Sábados: 9:00 a.m. a 1:00 p.m.",
+      "oficinas": [
+        {
+          "id": "of-principal",
+          "ciudad": "La Dorada, Caldas",
+          "nombre": "Sede Principal Centro",
+          "direccion": "Calle 14 # 4-32, Plaza de Bolívar",
+          "telefono": "+57 (606) 857 2300",
+          "horario": "Lunes a Viernes de 8:00 a.m. a 4:30 p.m. - Sábado: 8:30 a.m. a 12:30 p.m."
+        },
+        {
+          "id": "of-norte",
+          "ciudad": "Bogotá D.C.",
+          "nombre": "Centro Financiero Calle 72",
+          "direccion": "Carrera 7 # 71-52, Torre Financiera Piso 3",
+          "telefono": "+57 (601) 320 8900",
+          "horario": "Lunes a Viernes de 8:30 a.m. a 5:00 p.m."
+        },
+        {
+          "id": "of-occidente",
+          "ciudad": "Medellín, Antioquia",
+          "nombre": "Sucursal El Poblado",
+          "direccion": "Carrera 43A # 1 Sur-180",
+          "telefono": "+57 (604) 444 5600",
+          "horario": "Lunes a Viernes de 8:00 a.m. a 4:00 p.m. - Sábado: 9:00 a.m. a 1:00 p.m."
+        },
+        {
+          "id": "of-cafetera",
+          "ciudad": "Manizales, Caldas",
+          "nombre": "Sucursal Centro Histórico",
+          "direccion": "Carrera 22 # 21-15",
+          "telefono": "+57 (606) 884 1200",
+          "horario": "Lunes a Viernes de 8:00 a.m. a 4:00 p.m."
+        }
+      ]
+    }
+  }
+}

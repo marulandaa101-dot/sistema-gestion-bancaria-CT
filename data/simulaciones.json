@@ -1,0 +1,69 @@
+[
+  {
+    "id": "sim-1001",
+    "tipo": "credito",
+    "fecha": "2026-09-20T14:30:00.000Z",
+    "asesorId": "usr-001",
+    "asesorNombre": "Cindi Tatiana Marulanda",
+    "clienteNombre": "Juan Carlos Pérez",
+    "clienteDocumento": "1020304050",
+    "productoId": "prod-cred-libre",
+    "productoNombre": "Crédito de Libre Inversión",
+    "parametros": {
+      "monto": 15000000,
+      "plazo": 36,
+      "tasaNominalMensual": 1.45,
+      "tasaEfectivaAnual": 18.85,
+      "tipoCredito": "libre_inversion"
+    },
+    "resultados": {
+      "cuotaMensual": 538234,
+      "totalPagar": 19376424,
+      "totalIntereses": 4376424,
+      "numeroCuotas": 36
+    }
+  },
+  {
+    "id": "sim-1002",
+    "tipo": "cdt",
+    "fecha": "2026-09-21T10:15:00.000Z",
+    "asesorId": "usr-001",
+    "asesorNombre": "Cindi Tatiana Marulanda",
+    "clienteNombre": "María Fernanda López",
+    "clienteDocumento": "52896321",
+    "productoId": "prod-cdt-digital",
+    "productoNombre": "CDT Digital Rendimiento Superior",
+    "parametros": {
+      "inversion": 20000000,
+      "plazoDias": 360,
+      "tasaRentabilidadEA": 11.60
+    },
+    "resultados": {
+      "rendimientoEstimado": 2320000,
+      "retencionFuente": 92800,
+      "montoTotalFinal": 22227200
+    }
+  },
+  {
+    "id": "sim-1003",
+    "tipo": "ahorro",
+    "fecha": "2026-09-22T16:00:00.000Z",
+    "asesorId": "usr-004",
+    "asesorNombre": "Laura Marcela Gómez",
+    "clienteNombre": "Andrés Felipe Ruiz",
+    "clienteDocumento": "1032456789",
+    "productoId": "prod-ahorro-programado",
+    "productoNombre": "Cuenta de Ahorro Programado",
+    "parametros": {
+      "ahorroInicial": 1000000,
+      "aporteMensual": 200000,
+      "plazoMeses": 24,
+      "tasaInteresEA": 6.80
+    },
+    "resultados": {
+      "totalAportado": 5800000,
+      "interesesGenerados": 421650,
+      "saldoFinal": 6221650
+    }
+  }
+]

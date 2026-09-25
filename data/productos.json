@@ -1,0 +1,204 @@
+[
+  {
+    "id": "prod-cred-libre",
+    "nombre": "Crédito de Libre Inversión",
+    "categoria": "credito",
+    "tipo": "libre_inversion",
+    "tasaNominalMensual": 1.45,
+    "tasaEfectivaAnual": 18.85,
+    "montoMinimo": 1000000,
+    "montoMaximo": 80000000,
+    "plazoMinimoMeses": 12,
+    "plazoMaximoMeses": 72,
+    "descripcion": "Financiación de libre destinación para viajes, consolidación de deudas o proyectos personales con desembolso rápido.",
+    "beneficios": [
+      "Tasa y cuota fija durante toda la vigencia del crédito",
+      "No requiere codeudor para montos de hasta $25.000.000",
+      "Posibilidad de abonos extraordinarios a capital sin penalidad",
+      "Desembolso directo a tu cuenta de ahorros"
+    ],
+    "requisitos": [
+      "Documento de identidad al 150%",
+      "Certificado laboral no mayor a 30 días",
+      "Desprendibles de pago de los dos últimos meses",
+      "Ingresos mínimos requeridos: 1.5 SMMLV"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-cred-vivienda",
+    "nombre": "Crédito Hipotecario de Vivienda",
+    "categoria": "credito",
+    "tipo": "vivienda",
+    "tasaNominalMensual": 1.05,
+    "tasaEfectivaAnual": 13.35,
+    "montoMinimo": 20000000,
+    "montoMaximo": 500000000,
+    "plazoMinimoMeses": 60,
+    "plazoMaximoMeses": 240,
+    "descripcion": "Haz realidad el sueño de tener casa propia. Financiamos hasta el 70% de vivienda No VIS y hasta el 80% de vivienda VIS.",
+    "beneficios": [
+      "Plazos extendidos de hasta 20 años para cuotas más cómodas",
+      "Beneficio tributario por deducción de intereses en renta",
+      "Seguro de vida y deudores con cobertura integral",
+      "Acompañamiento especializado en trámites notariales"
+    ],
+    "requisitos": [
+      "Fotocopia de cédula de ciudadanía",
+      "Promesa de compraventa o carta del proyecto",
+      "Declaración de renta del último período gravable (si aplica)",
+      "Certificados de ingresos y retenciones"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-cred-vehiculo",
+    "nombre": "Crédito de Vehículo",
+    "categoria": "credito",
+    "tipo": "vehiculo",
+    "tasaNominalMensual": 1.25,
+    "tasaEfectivaAnual": 16.08,
+    "montoMinimo": 10000000,
+    "montoMaximo": 150000000,
+    "plazoMinimoMeses": 12,
+    "plazoMaximoMeses": 84,
+    "descripcion": "Financiación para vehículo particular nuevo o usado de hasta 8 años de antigüedad con preaprobación ágil.",
+    "beneficios": [
+      "Financiación de hasta el 85% del valor comercial del vehículo",
+      "Descuento en póliza todo riesgo institucional",
+      "Respuesta de viabilidad en menos de 2 horas",
+      "Flexibilidad para retoma de vehículo usado"
+    ],
+    "requisitos": [
+      "Cédula de ciudadanía del solicitante",
+      "Factura proforma o cotización del concesionario",
+      "Extractos bancarios de los últimos 3 meses",
+      "Peritaje técnico avalado por la entidad (para usados)"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-cred-educativo",
+    "nombre": "Crédito Educativo Preferencial",
+    "categoria": "credito",
+    "tipo": "educativo",
+    "tasaNominalMensual": 0.95,
+    "tasaEfectivaAnual": 12.01,
+    "montoMinimo": 500000,
+    "montoMaximo": 40000000,
+    "plazoMinimoMeses": 6,
+    "plazoMaximoMeses": 60,
+    "descripcion": "Apoyamos tu formación profesional de pregrado, posgrado y cursos de especialización técnica con tasas preferenciales.",
+    "beneficios": [
+      "Tasa subsidiada preferencial para convenios educativos",
+      "Periodo de gracia durante el semestre académico si se solicita",
+      "Trámite 100% digital sin salir de casa",
+      "Renovación ágil para cada semestre posterior"
+    ],
+    "requisitos": [
+      "Recibo de matrícula o liquidación de pensión vigente",
+      "Cédula del estudiante y del titular responsable",
+      "Soporte de ingresos del deudor principal"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-cdt-tradicional",
+    "nombre": "CDT Tradicional a Término Fijo",
+    "categoria": "cdt",
+    "tipo": "cdt",
+    "tasaNominalMensual": 0.85,
+    "tasaEfectivaAnual": 10.75,
+    "montoMinimo": 500000,
+    "montoMaximo": 1000000000,
+    "plazoMinimoMeses": 1,
+    "plazoMaximoMeses": 36,
+    "descripcion": "Inversión a plazo fijo con rentabilidad conocida y garantizada desde el primer día, con respaldo total del seguro Fogafín.",
+    "beneficios": [
+      "Cero riesgo de mercado: rentabilidad 100% fija asegurada",
+      "Elección de pago de intereses mensual, trimestral o al vencimiento",
+      "Negociable en el mercado secundario mediante endoso",
+      "Sin comisiones de manejo ni cobros ocultos"
+    ],
+    "requisitos": [
+      "Cédula de ciudadanía o extranjería",
+      "Fondos disponibles para apertura",
+      "Diligenciamiento de formato SARLAFT de origen de fondos"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-cdt-digital",
+    "nombre": "CDT Digital Rendimiento Superior",
+    "categoria": "cdt",
+    "tipo": "cdt",
+    "tasaNominalMensual": 0.92,
+    "tasaEfectivaAnual": 11.60,
+    "montoMinimo": 1000000,
+    "montoMaximo": 500000000,
+    "plazoMinimoMeses": 3,
+    "plazoMaximoMeses": 24,
+    "descripcion": "Constituye tu inversión 100% en línea desde nuestro portal con una bonificación adicional en la tasa de rentabilidad.",
+    "beneficios": [
+      "Tasa preferencial (+0.50% E.A.) por constitución digital",
+      "Monitoreo diario de rendimientos en línea",
+      "Renovación automática opcional o abono directo a cuenta",
+      "Certificado tributario digital inmediato"
+    ],
+    "requisitos": [
+      "Tener cuenta activa en la entidad",
+      "Validación biométrica o token de seguridad",
+      "Monto mínimo de inversión $1.000.000"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-ahorro-programado",
+    "nombre": "Cuenta de Ahorro Programado",
+    "categoria": "ahorro",
+    "tipo": "ahorro_programado",
+    "tasaNominalMensual": 0.55,
+    "tasaEfectivaAnual": 6.80,
+    "montoMinimo": 50000,
+    "montoMaximo": 200000000,
+    "plazoMinimoMeses": 6,
+    "plazoMaximoMeses": 60,
+    "descripcion": "Planifica el cumplimiento de tus metas mediante débitos automáticos programados y obtén intereses mensuales capitalizables.",
+    "beneficios": [
+      "Liquidación diaria de intereses abonados mes a mes",
+      "Exención del 4x1000 según montos normativos vigentes",
+      "Aporte mínimo mensual desde solo $50.000 COP",
+      "Bonificación extra por cumplimiento de la meta pactada"
+    ],
+    "requisitos": [
+      "Documento de identidad",
+      "Definición de meta de ahorro y plazo en meses",
+      "Depósito inicial mínimo de apertura"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "prod-ahorro-tradicional",
+    "nombre": "Cuenta de Ahorros Tradicional BCF",
+    "categoria": "ahorro",
+    "tipo": "ahorro_tradicional",
+    "tasaNominalMensual": 0.25,
+    "tasaEfectivaAnual": 3.05,
+    "montoMinimo": 0,
+    "montoMaximo": 500000000,
+    "plazoMinimoMeses": 0,
+    "plazoMaximoMeses": 120,
+    "descripcion": "Tu dinero siempre disponible para retiros, transferencias y pagos con tarjeta débito respaldada y acceso a canales virtuales.",
+    "beneficios": [
+      "Tarjeta débito con chip sin cuota de manejo durante el primer año",
+      "Transferencias interbancarias gratuitas",
+      "Red nacional de más de 3.500 cajeros sin costo de retiro",
+      "Notificaciones SMS y correo gratuitas por cada movimiento"
+    ],
+    "requisitos": [
+      "Cédula de ciudadanía original",
+      "Registro de huella dactilar y firma digital"
+    ],
+    "estado": "activo"
+  }
+]
